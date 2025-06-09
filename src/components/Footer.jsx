@@ -57,7 +57,6 @@ class SiteFooter extends React.Component {
 
                 </ul>
               </div>
-
               <nav className="nav-colophon" aria-label="About">
                 <ol>
 
